@@ -42,7 +42,7 @@ header{
     border-width: 2px;
 }
 button{
-    background-color:rgb(139, 158, 190);
+    background-color:rgb(236, 224, 255);
     font-size:25px;
     width: 30px;
     height: 40px;
